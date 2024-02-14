@@ -1,1 +1,1 @@
-# rust-ts
+# Rust for TypeScript developers
